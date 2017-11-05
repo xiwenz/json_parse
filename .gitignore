@@ -1,0 +1,11 @@
+*.pyc
+dist/
+build/
+*.egg-info/
+*.DS_Store
+.idea/
+*.xml
+*.iml
+
+monitoragent/monitoragent/qflame/
+monitoragent/monitoragent/grafana/
